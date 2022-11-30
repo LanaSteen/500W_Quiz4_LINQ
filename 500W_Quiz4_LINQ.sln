@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "500W_Quiz4_LINQ", "500W_Quiz4_LINQ\500W_Quiz4_LINQ.csproj", "{1770405F-136D-4D55-AD82-C1FD39AAB903}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1770405F-136D-4D55-AD82-C1FD39AAB903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1770405F-136D-4D55-AD82-C1FD39AAB903}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1770405F-136D-4D55-AD82-C1FD39AAB903}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1770405F-136D-4D55-AD82-C1FD39AAB903}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2911A98-959D-48E5-84F3-A079F6F17340}
+	EndGlobalSection
+EndGlobal
